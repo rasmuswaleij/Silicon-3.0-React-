@@ -38,7 +38,8 @@ const Subscribe = () => {
         <div className="flex-row-center bell-and-header">
           <img src="/assets/images/bell.svg" alt="" className="bell" />
           <h2 className="desktop fs-quaternary-heading fw-extra-bold subscribe-heading">
-            Subscribe to our newsletter to stay informed about latest updates
+            Subscribe to our new newsletter to stay informed about latest
+            updates
           </h2>
           <h2
             className="fs-quinary-heading fw-extra-bold tablet mobile"
